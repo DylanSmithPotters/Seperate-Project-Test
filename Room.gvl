@@ -238,8 +238,8 @@ END_VAR
     <EventVariable>
     </EventVariable>
     <ProtocolSettings>
-      <ProtocolSetting Name="Broadcast Adr." Value="10.13.50.75" />
       <ProtocolSetting Name="Port" Value="1203" />
+      <ProtocolSetting Name="Broadcast Adr." Value="10.13.50.75" />
     </ProtocolSettings>
   </NetvarSettings>
 </GVL>
